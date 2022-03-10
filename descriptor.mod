@@ -1,0 +1,15 @@
+version="1.0"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Sound"
+	"Technologies"
+}
+name="Midnight Upon Us"
+supported_version="1.11.5"
