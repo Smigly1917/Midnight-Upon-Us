@@ -1,0 +1,34 @@
+characters={
+	RAJ_Raghu_Poddar={
+		name=RAJ_Raghu_Poddar
+		portraits={
+			civilian={
+				large="gfx/leaders/RAJ/Portrait_India_Raghu_Poddar.dds"
+			}
+		}
+		country_leader={
+			ideology=right-wing_populism
+			desc = "POLITICS_RAGHU_PODDAR_DESC"
+			traits = {
+			}
+			expire="2200.1.1.1"
+			id=-1
+		}
+
+	RAJ_Daksh_Mallaya={
+		name=RAJ_Daksh_Mallaya
+		portraits={
+			civilian={
+				large="gfx/leaders/RAJ/Portrait_India_Daksh_Mallaya.dds"
+			}
+		}
+		country_leader={
+			ideology=national_conservatism
+			desc = "POLITICS_DAKSH_MALLAYA_DESC"
+			traits = {
+			}
+			expire="2200.1.1.1"
+			id=-1
+		}
+	}
+}
