@@ -4,6 +4,12 @@ l_english:
  ###########
  IND_despotism_party:0 "Military Junta"
  IND_despotism_party_long:0 "Indian National Military Junta"
+ IND_ultra-nationalism_party:0 "BJP - Moksh Clique"
+ IND_ultra-nationalism_party:0 "Bharatiya Janata Party - Moksh Clique"
+ IND_right-wing_populism_party:0 "BJP - Mumbai Clique"
+ IND_right-wing_populism_party_long:0 "Bharatiya Janata Party - Mumbai Clique"
+ IND_national_conservatism_party:0 "BJP - New Delhi Clique"
+ IND_national_conservatism_party_long:0 "Bharatiya Janata Party - New Delhi Clique"
  IND_marxism-leninism_party:0 "CPI (Maoist)"
  IND_marxism-leninism_party_long:0 "Communist Party of India (Maoist)"
 
