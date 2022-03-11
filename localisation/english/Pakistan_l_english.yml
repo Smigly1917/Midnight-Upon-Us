@@ -1,0 +1,25 @@
+l_english:
+ ###########
+ ##PARTIES##
+ ###########
+ PAK_despotism_party:0 "CPP - Mao Clique"
+ PAK_despotism_party_long:0 "Communist Party of Pakistan - Mao Clique"
+ PAK_marxism-leninism_party:0 "CPP - Qazi Clique"
+ PAK_marxism-leninism_party_long:0 "Communist Party of Pakistan - Qazi Clique"
+
+ ###########
+ ##LEADERS##
+ ###########
+ PAK_Mao_Xun:0 "Mao Xun"
+ POLITICS_MAO_XUN_DESC:0 "This is Colonel Mao Xun speaking. The People's Republic of China once again asks for your cooperation for a better future for Pakistan and Kashmir. We are here to liberate you. Please cooperate with your local government. Colonel Mao Xun was the great great great grandson of Mao Zedong himself, the founder of the People's Republic of China. He attended the National Defence University, then after graduating he quickly enlisted in the People's Liberation Army. Due to his status as the descendants of Mao Zedong, he quickly accepted and began to climb the rank in the PLA. His first deployment would be in Tibet, where he help brutally suppressed the Lhasa rebellion. Then, he was sent to Taiwan, where he almost gets killed when his convoy gets ambushed by Republican resistance. Then, he was promoted to Shao Xiao (Major) in 2090.As an expert on Guerilla Warfare and Counter-Insurgency, he is sent as an advisor for the Hoxhaist Movement during the Albanian Revolution. Then after a short adventure in Cambodia, He is appointed as the Commanding Officer in charge of the supervision for the Invasion of the Kashmir Region in 2094. At first, he initially thought that he will receive a promotion and finally received the desk work that he dreamed of, and he did receive a promotion, but not with desk work. The MSS managed to obtain evidence of Xun's involvement with the Chongqing Clique. The Central Military Committee, fearing the rise of Maoism decided to exile Xun as far as possible. Mao Xun was then promoted into the rank of Da Xiao (Senior Colonel) and quickly named as the Commander of the Kashmir Military Region. Although Xun happily accepted this appointment in public, he know that he is exiled by the CCP.Xun is now stuck in Kashmir, and the only question in his head is:When do I return home?"
+ PAK_Emrah_Qazi:0 "Emrah Qazi"
+ POLITICS_EMRAH_QAZI_DESC:0 "Based Guy."
+
+ #############
+ ##MINISTERS##
+ #############
+ 
+ 
+ #########
+ ##IDEAS##
+ #########
