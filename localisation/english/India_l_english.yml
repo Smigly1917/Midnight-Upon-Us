@@ -2,17 +2,17 @@ l_english:
  ###########
  ##PARTIES##
  ###########
- RAJ_despotism_party:0 "Military Junta"
- RAJ_despotism_party_long:0 "Indian National Military Junta"
- RAJ_marxism-leninism_party:0 "CPI (Maoist)"
- RAJ_marxism-leninism_party_long:0 "Communist Party of India (Maoist)"
+ IND_despotism_party:0 "Military Junta"
+ IND_despotism_party_long:0 "Indian National Military Junta"
+ IND_marxism-leninism_party:0 "CPI (Maoist)"
+ IND_marxism-leninism_party_long:0 "Communist Party of India (Maoist)"
 
  ###########
  ##LEADERS##
  ###########
- RAJ_Raghu_Poddar:0 "Raghu Poddar" 
+ IND_Raghu_Poddar:0 "Raghu Poddar" 
  POLITICS_RAGHU_PODDAR_DESC:0 ""
- PAK_Daksh_Mallaya:0 "Daksh Mallaya"
+ IND_Daksh_Mallaya:0 "Daksh Mallaya"
  POLITICS_DAKSH_MALLAYA_DESC:0 "Mallaya never expected that Poddar will end like this. He always expects that fuckers will resign, not being blown off on live television. The money he spent for gathering those evidence, the time he spent pinpointing those evidence towards Poddar's secret daughter, the time he waste to uncover many of Poddar's budget mismanagement and shady deal. All of his efforts, to weaken Poddar and his Mumbai Clique and to finally force him to resign, has been reduced to void. Poddar lays dead, his ashes are spread along the Ganga river. But, at least the evidence he gathered against the President managed to make the President appoint him as the new Prime Minister. The situation right now is not good for Mallaya. In the Parliament, there are rumors that several Member of the Lok Sabha is planning for a motion of no confidence against his Government. In the streets, sectarian conflict increases as various terror attacks occurred across India. Protest demanding the resignation of Mallaya and demanding the end of BJP dominance also has become an everyday sight. Will Malaya be the Prime Minister that will bring unity to India? Or will he be the last Prime Minister of a united India ? Time is ticking Mallaya…"
  #############
  ##MINISTERS##
