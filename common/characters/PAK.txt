@@ -1,0 +1,18 @@
+characters={
+	PAK_Mao_Xun={
+		name=PAK_Mao_Xun
+		portraits={
+			civilian={
+				large="gfx/leaders/PAK/Portrait_Pakistan_Mao_Xun.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			desc = "POLITICS_MAO_XUN_DESC"
+			traits = {
+			}
+			expire="2200.1.1.1"
+			id=-1
+		}
+	}
+}
