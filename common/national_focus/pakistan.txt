@@ -1,1 +1,18 @@
+focus_tree = {
+	id = pakistan_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = PAK
+		}
+	}
 
+	default = no
+
+	reset_on_civil_war = false
+		}
+	}
+}
