@@ -1,9 +1,9 @@
 characters={
-	RAJ_Raghu_Poddar={
-		name=RAJ_Raghu_Poddar
+	IND_Raghu_Poddar={
+		name=IND_Raghu_Poddar
 		portraits={
 			civilian={
-				large="gfx/leaders/RAJ/Portrait_India_Raghu_Poddar.dds"
+				large="gfx/leaders/IND/Portrait_India_Raghu_Poddar.dds"
 			}
 		}
 		country_leader={
@@ -15,11 +15,11 @@ characters={
 			id=-1
 		}
 
-	RAJ_Daksh_Mallaya={
-		name=RAJ_Daksh_Mallaya
+	IND_Daksh_Mallaya={
+		name=IND_Daksh_Mallaya
 		portraits={
 			civilian={
-				large="gfx/leaders/RAJ/Portrait_India_Daksh_Mallaya.dds"
+				large="gfx/leaders/IND/Portrait_India_Daksh_Mallaya.dds"
 			}
 		}
 		country_leader={
