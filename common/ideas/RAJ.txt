@@ -9,9 +9,7 @@ ideas = {
 			picture = 
 			modifier = {
 				stability_factor = -10
-
-
-ultra-nationalism_drift = 0.01
+				ultra-nationalism_drift = 0.01
 
 
 			}
