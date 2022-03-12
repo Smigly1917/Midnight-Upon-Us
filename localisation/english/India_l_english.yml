@@ -2,23 +2,23 @@ l_english:
  ###########
  ##PARTIES##
  ###########
- IND_despotism_party:0 "Military Junta"
- IND_despotism_party_long:0 "Indian National Military Junta"
- IND_ultra-nationalism_party:0 "BJP - Moksh Clique"
- IND_ultra-nationalism_party:0 "Bharatiya Janata Party - Moksh Clique"
- IND_right-wing_populism_party:0 "BJP - Mumbai Clique"
- IND_right-wing_populism_party_long:0 "Bharatiya Janata Party - Mumbai Clique"
- IND_national_conservatism_party:0 "BJP - New Delhi Clique"
- IND_national_conservatism_party_long:0 "Bharatiya Janata Party - New Delhi Clique"
- IND_marxism-leninism_party:0 "CPI (Maoist)"
- IND_marxism-leninism_party_long:0 "Communist Party of India (Maoist)"
+ RAJ_despotism_party:0 "Military Junta"
+ RAJ_despotism_party_long:0 "Indian National Military Junta"
+ RAJ_ultra-nationalism_party:0 "BJP - Moksh Clique"
+ RAJ_ultra-nationalism_party:0 "Bharatiya Janata Party - Moksh Clique"
+ RAJ_right-wing_populism_party:0 "BJP - Mumbai Clique"
+ RAJ_right-wing_populism_party_long:0 "Bharatiya Janata Party - Mumbai Clique"
+ RAJ_national_conservatism_party:0 "BJP - New Delhi Clique"
+ RAJ_national_conservatism_party_long:0 "Bharatiya Janata Party - New Delhi Clique"
+ RAJ_marxism-leninism_party:0 "CPI (Maoist)"
+ RAJ_marxism-leninism_party_long:0 "Communist Party of India (Maoist)"
 
  ###########
  ##LEADERS##
  ###########
- IND_Raghu_Poddar:0 "Raghu Poddar" 
- POLITICS_RAGHU_PODDAR_DESC:0 ""
- IND_Daksh_Mallaya:0 "Daksh Mallaya"
+ RAJ_Raghu_Poddar:0 "Raghu Poddar" 
+ POLITICS_RAGHU_PODDAR_DESC:0 "Born in the year 2023, Raghu Poddar's political beliefs have been shaped since he was a child. Poddar's Father was a Karyawah in the Rashtriya Swayamsevak Sangh (RSS), while his mother is a member of Rashtra Sevika Samiti. His father was also a member of the local BJP chapter in Ahmedabad. He has already been involved in RSS activities since he was little, joining his father's shakha at the age of 8. His father often taking Raghu with him during a political rally, slowly but surely forming and shaping Poddar's political careers. He then enrolled in the Jawaharlal Nehru University, where he studied International relations. He was quite active in student activities, often debating and even involved in several fights against members of the left-wing student Union from both the Students Federations of India and the All India Students Federation. He soon developed his nickname "Bruise", for his affinity to leave "one or two" marks and bruises in his opponent during a fight. Through Intimidation and campaigning, he managed to get elected as the president of the Jawaharlal Nehru University Students' Union, starting the dominance of right-wing politics in the University. Years passed, and he graduated from college. He then joined the Indian Foreign Service. His first position was as the third secretary at the Indian Embassy in Washington D.C. After moving from one embassy to another, he then finally assumed the position of the Ambassador of the United Kingdom. Here, he was rumored to father several children from Indian Immigrants, but no evidence could be provided to support these accusations. After he finished his tenure, Poddar then resigned from the Indian Foreign Service. He decided that he will represent East Ahmedabad and stand as a candidate for the BJP to contest the seat of Lok Sabha that was previously owned by the INC. Poddar quickly utilized his skill during campaigning. Intimidating, bribing, and blackmailing have become a common thing for Poddar’s Campaign. Several Journalist who investigated the matter were either silenced by money or ended up found in the Sabarmati river. He successfully wins and was elected as a member of the Lok Sabha. He soon developed brash, confrontational rhetoric, often using a very strong and hard word against his opponent during a debate in the Lok Sabha. He then becomes a close acquaintance of Sharya Gharapure, and soon enters Gharapure circles as one of his right hands. Gharapure circles, the so-called Mumbai Clique slowly but surely started to dominate the BJP. Then, Gharapure is elected as the Prime Minister. Gharapure appointed all of his inner circle to fill the Cabinet, and that includes Poddar. Poddar was appointed as the Minister of External Affairs. Contrasted with his brash, confrontational, and aggressive personality, he is very dovish in terms of Foreign Policy. He restarted negotiation with Pakistan about the status of Jammu and Kashmir. The Negotiation were going well until Gharapure decided to invade Pakistan. The decision was surprising, but experts conclude that Gharapure take that decision to increase his popularity took a huge hit due to his incapability to handle and manage the economy. Initially, Poddar was against the invasion, but he decided to support it. The reason for this change of heart is unknown. Despite the success of the Invasion, it only increased public resentment against Gharapure and the BJP. He was then forced to resign by the party, in exchange for BJP support for his Presidential Campaign. The President then appointed Poddar as Prime Minister, mainly due to fact that he is one of the few cabinet members who didn't express their support for the war and also due to his relatively moderate views. At last, Poddar has achieved his dream. These last few years were a nightmare for Poddar. His Party Popularity is failing, while the economy is stagnating. In Pakistan, armed struggle has increased, as bombing, ambush, and assassination have become an everyday routine. Now, he must carefully plot his move and try to save India, before its too late."
+ RAJ_Daksh_Mallaya:0 "Daksh Mallaya"
  POLITICS_DAKSH_MALLAYA_DESC:0 "Mallaya never expected that Poddar will end like this. He always expects that fuckers will resign, not being blown off on live television. The money he spent for gathering those evidence, the time he spent pinpointing those evidence towards Poddar's secret daughter, the time he waste to uncover many of Poddar's budget mismanagement and shady deal. All of his efforts, to weaken Poddar and his Mumbai Clique and to finally force him to resign, has been reduced to void. Poddar lays dead, his ashes are spread along the Ganga river. But, at least the evidence he gathered against the President managed to make the President appoint him as the new Prime Minister. The situation right now is not good for Mallaya. In the Parliament, there are rumors that several Member of the Lok Sabha is planning for a motion of no confidence against his Government. In the streets, sectarian conflict increases as various terror attacks occurred across India. Protest demanding the resignation of Mallaya and demanding the end of BJP dominance also has become an everyday sight. Will Malaya be the Prime Minister that will bring unity to India? Or will he be the last Prime Minister of a united India ? Time is ticking Mallaya…"
  #############
  ##MINISTERS##
