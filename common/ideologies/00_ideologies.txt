@@ -1,1 +1,42 @@
+ideologies = {
+	ultranationalism = {
+		types = {
+			hindutva = { can_be_randomly_selected = no }
+		}
+		dynamic_faction_names = {
+			"faction_ultranationalism_order_of_liberty"
+			"faction_ultranationalism_new_world_order"
+			"faction_ultranationalism_freedom_alliance"
+			"faction_ultranationalism_unity_sphere"
+		}
+		color = { 0 16 40 }
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		war_impact_on_world_tension = 20
+		faction_modifiers = {
+			faction_impact_on_world_tension = 30
+			faction_trade_opinion_factor = 40
+		}
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = {
+			generate_wargoal_tension = 10
+			guarantee_tension = 20
+			annex_cost_factor = 40
+			civilian_intel_to_others = 5
+			army_intel_to_others = 5
+			navy_intel_to_others = 5
+			airforce_intel_to_others = 5
+			justify_war_goal_when_in_major_war_time = 10
+			increased_influence_factor = 3
+			drift_defence_factor = 3
+		}
+		ai_neutral = yes
+	}
+}
 
