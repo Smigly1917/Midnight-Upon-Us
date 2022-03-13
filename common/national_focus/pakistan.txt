@@ -1,18 +1,139 @@
 focus_tree = {
-	id = pakistan_focus
-	
+	id = pakistani_focus
+	continuous_focus_position = { x = -40 y = 1050 } 
 	country = {
 		factor = 0
-		
 		modifier = {
 			add = 10
 			tag = PAK
 		}
 	}
-
-	default = no
-
-	reset_on_civil_war = false
+	#Addressing the Congress
+	focus = {
+		id = PAK_addressing_the_congress
+		icon = GFX_PAK_addressing_the_congress-172956
+		x = 1
+		y = 0
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
 		}
 	}
+
+	#Request Reinforcements from China
+	focus = {
+		id = PAK_request_reinforcements_from_china
+		icon = GFX_PAK_request_reinforcements_from_china-172958
+		x = 3
+		y = 0
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+	}
+
+	#The Volunteer Units
+	focus = {
+		id = PAK_the_volunteer_units
+		icon = GFX_PAK_the_volunteer_units-172961
+		x = 1
+		y = 1
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = PAK_addressing_the_congress  } prerequisite = { focus = PAK_request_reinforcements_from_china  }
+	}
+
+	#Negotiating for Weapons
+	focus = {
+		id = PAK_negotiating_for_weapons
+		icon = GFX_PAK_negotiating_for_weapons-172968
+		x = 3
+		y = 1
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = PAK_addressing_the_congress  } prerequisite = { focus = PAK_request_reinforcements_from_china  }
+	}
+
+	#The Pakistani MSS
+	focus = {
+		id = PAK_the_pakistani_mss
+		icon = GFX_PAK_the_pakistani_mss-172972
+		x = 1
+		y = 2
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = PAK_the_volunteer_units  } prerequisite = { focus = PAK_negotiating_for_weapons  }
+	}
+
+	#Bribing Corrupt Rebels
+	focus = {
+		id = PAK_bribing_corrupt_rebels
+		icon = GFX_PAK_bribing_corrupt_rebels-172978
+		x = 3
+		y = 2
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_PAK_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = PAK_the_volunteer_units  } prerequisite = { focus = PAK_negotiating_for_weapons  }
+	}
+
+	#The People's Counter-War
+	focus = {
+		id = PAK_thepeoplescounterwar
+		icon = GFX_PAK_thepeoplescounterwar-172980
+		x = 1
+		y = 3
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = PAK_the_pakistani_mss  } prerequisite = { focus = PAK_bribing_corrupt_rebels  }
+	}
+
+	#Cutting off their Supplies
+	focus = {
+		id = PAK_cutting_off_their_supplies
+		icon = GFX_PAK_cutting_off_their_supplies-172982
+		x = 3
+		y = 3
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = PAK_the_pakistani_mss  } prerequisite = { focus = PAK_bribing_corrupt_rebels  }
+	}
+
+	#Attacking the Terrorists !
+	focus = {
+		id = PAK_attackingtheterrorists
+		icon = GFX_PAK_attackingtheterrorists-173000
+		x = 2
+		y = 4
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_PAK_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = PAK_thepeoplescounterwar  } prerequisite = { focus = PAK_cutting_off_their_supplies  }
+	}
+
+	#Start Preparing Fortifications
+	focus = {
+		id = PAK_start_preparing_fortifications
+		icon = GFX_PAK_start_preparing_fortifications-173001
+		x = 2
+		y = 5
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = PAK_attackingtheterrorists  }
+	}
+
 }
