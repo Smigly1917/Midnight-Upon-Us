@@ -1,16 +1,16 @@
 spriteTypes = {	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_addressing_the_congress-172956"
-		texturefile = "gfx/interface/goals/GFX_FRA_addressing_the_congress-172956.dds"
+		name = "GFX_PAK_addressing_the_congress-172956"
+		texturefile = "gfx/interface/goals/GFX_PAK_addressing_the_congress-172956.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_addressing_the_congress-172956_shine"
-		texturefile = "gfx/interface/goals/GFX_FRA_addressing_the_congress-172956.dds"
+		name = "GFX_PAK_addressing_the_congress-172956_shine"
+		texturefile = "gfx/interface/goals/GFX_PAK_addressing_the_congress-172956.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_addressing_the_congress-172956.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_addressing_the_congress-172956.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -38,17 +38,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_request_reinforcements_from_china-172958"
-		texturefile = "gfx/interface/goals/GFX_FRA_request_reinforcements_from_china-172958.dds"
+		name = "GFX_PAK_request_reinforcements_from_china-172958"
+		texturefile = "gfx/interface/goals/GFX_PAK_request_reinforcements_from_china-172958.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_request_reinforcements_from_china-172958_shine"
-		texturefile = "gfx/interface/goals/GFX_FRA_request_reinforcements_from_china-172958.dds"
+		name = "GFX_PAK_request_reinforcements_from_china-172958_shine"
+		texturefile = "gfx/interface/goals/GFX_PAK_request_reinforcements_from_china-172958.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_request_reinforcements_from_china-172958.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_request_reinforcements_from_china-172958.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -60,7 +60,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_request_reinforcements_from_china-172958.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_request_reinforcements_from_china-172958.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -76,17 +76,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_the_volunteer_units-172961"
+		name = "GFX_PAK_the_volunteer_units-172961"
 		texturefile = "gfx/interface/goals/GFX_FRA_the_volunteer_units-172961.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_the_volunteer_units-172961_shine"
-		texturefile = "gfx/interface/goals/GFX_FRA_the_volunteer_units-172961.dds"
+		name = "GFX_PAK_the_volunteer_units-172961_shine"
+		texturefile = "gfx/interface/goals/GFX_PAK_the_volunteer_units-172961.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_the_volunteer_units-172961.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_the_volunteer_units-172961.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -98,7 +98,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_the_volunteer_units-172961.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_the_volunteer_units-172961.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -114,13 +114,13 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_negotiating_for_weapons-172968"
-		texturefile = "gfx/interface/goals/GFX_FRA_negotiating_for_weapons-172968.dds"
+		name = "GFX_PAK_negotiating_for_weapons-172968"
+		texturefile = "gfx/interface/goals/GFX_PAK_negotiating_for_weapons-172968.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_negotiating_for_weapons-172968_shine"
+		name = "GFX_PAK_negotiating_for_weapons-172968_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_negotiating_for_weapons-172968.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -136,7 +136,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_negotiating_for_weapons-172968.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_negotiating_for_weapons-172968.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -152,17 +152,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_the_pakistani_mss-172972"
-		texturefile = "gfx/interface/goals/GFX_FRA_the_pakistani_mss-172972.dds"
+		name = "GFX_PAK_the_pakistani_mss-172972"
+		texturefile = "gfx/interface/goals/GFX_PAK_the_pakistani_mss-172972.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_the_pakistani_mss-172972_shine"
+		name = "GFX_PAK_the_pakistani_mss-172972_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_the_pakistani_mss-172972.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_the_pakistani_mss-172972.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_the_pakistani_mss-172972.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -174,7 +174,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_the_pakistani_mss-172972.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_the_pakistani_mss-172972.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -190,17 +190,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_bribing_corrupt_rebels-172978"
+		name = "GFX_PAK_bribing_corrupt_rebels-172978"
 		texturefile = "gfx/interface/goals/GFX_FRA_bribing_corrupt_rebels-172978.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_bribing_corrupt_rebels-172978_shine"
+		name = "GFX_PAK_bribing_corrupt_rebels-172978_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_bribing_corrupt_rebels-172978.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_bribing_corrupt_rebels-172978.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_bribing_corrupt_rebels-172978.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -212,7 +212,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_bribing_corrupt_rebels-172978.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_bribing_corrupt_rebels-172978.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -228,17 +228,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_thepeoplescounterwar-172980"
+		name = "GFX_PAK_thepeoplescounterwar-172980"
 		texturefile = "gfx/interface/goals/GFX_FRA_thepeoplescounterwar-172980.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_thepeoplescounterwar-172980_shine"
+		name = "GFX_PAK_thepeoplescounterwar-172980_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_thepeoplescounterwar-172980.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_thepeoplescounterwar-172980.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_thepeoplescounterwar-172980.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -250,7 +250,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_thepeoplescounterwar-172980.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_thepeoplescounterwar-172980.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -266,13 +266,13 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_cutting_off_their_supplies-172982"
+		name = "GFX_PAK_cutting_off_their_supplies-172982"
 		texturefile = "gfx/interface/goals/GFX_FRA_cutting_off_their_supplies-172982.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_cutting_off_their_supplies-172982_shine"
+		name = "GFX_PAK_cutting_off_their_supplies-172982_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_cutting_off_their_supplies-172982.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -288,7 +288,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_cutting_off_their_supplies-172982.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_cutting_off_their_supplies-172982.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -304,17 +304,17 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_attackingtheterrorists-173000"
+		name = "GFX_PAK_attackingtheterrorists-173000"
 		texturefile = "gfx/interface/goals/GFX_FRA_attackingtheterrorists-173000.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_attackingtheterrorists-173000_shine"
+		name = "GFX_PAK_attackingtheterrorists-173000_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_attackingtheterrorists-173000.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_attackingtheterrorists-173000.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_attackingtheterrorists-173000.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -326,7 +326,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_attackingtheterrorists-173000.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_attackingtheterrorists-173000.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -342,13 +342,13 @@ spriteTypes = {	##Icon For:
 
 	##Icon For: 
 	SpriteType = { 
-		name = "GFX_FRA_start_preparing_fortifications-173001"
+		name = "GFX_PAK_start_preparing_fortifications-173001"
 		texturefile = "gfx/interface/goals/GFX_FRA_start_preparing_fortifications-173001.dds"
 	}
 
 	##Icon Shine For: 
 	SpriteType = { 
-		name = "GFX_FRA_start_preparing_fortifications-173001_shine"
+		name = "GFX_PAK_start_preparing_fortifications-173001_shine"
 		texturefile = "gfx/interface/goals/GFX_FRA_start_preparing_fortifications-173001.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
@@ -364,7 +364,7 @@ spriteTypes = {	##Icon For:
 			animationtexturescale = { x = 1.0 y = 1.0 } 
 		}
 		animation = {
-			animationmaskfile = "gfx/interface/goals/GFX_FRA_start_preparing_fortifications-173001.dds"
+			animationmaskfile = "gfx/interface/goals/GFX_PAK_start_preparing_fortifications-173001.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
