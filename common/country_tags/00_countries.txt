@@ -1,4 +1,5 @@
 RAJ = "countries/India.txt"
+SOV = "countries/Russia.txt"
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SCO = "countries/Scotland.txt"
